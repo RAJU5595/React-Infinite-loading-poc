@@ -1,0 +1,10 @@
+.todo-item-container{
+    width:30vw;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.grey-out{
+    opacity: 0.5;
+}

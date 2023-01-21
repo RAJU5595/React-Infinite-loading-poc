@@ -1,0 +1,9 @@
+.bg-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo-container{
+    list-style-type: none;
+}
